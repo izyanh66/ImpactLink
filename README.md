@@ -2,7 +2,7 @@
 
 **Connecting Resources to Real Needs** · SDG 17 · Team De-zum · TS-036
 
-Methodist College of Engineering and Technology, Hyderabad. Shaik Muhammed Muzakir, Mohammed Muabbir Sayeed, and Devansh Bohra.
+Methodist College of Engineering and Technology, Hyderabad. Taha Soofi, Izyan Hussain, Farhan Faheem.
 
 This is an operational local hackathon MVP with Next.js App Router, TypeScript, Tailwind, a shadcn-style Radix button, Lucide, Recharts, React Hook Form/Zod, FastAPI, SQLAlchemy, and Alembic. It runs locally on SQLite because Docker/PostgreSQL are not installed on the development machine. A PostgreSQL Docker Compose setup is included but has not been executed here.
 
